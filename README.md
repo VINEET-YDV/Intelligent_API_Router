@@ -1,5 +1,5 @@
 # Intelligent LLM API Router
-
+https://intelligentapirouter-fqdmucvxulybeavithi2ff.streamlit.app/
 An extensible, intent-driven API router built with FastAPI that dynamically selects the best Large Language Model (LLM) for a given query.
 
 ## Architecture & Routing Logic
